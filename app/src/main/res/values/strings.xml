@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="subtitle">Inicia sesión para continuar</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="forgot">¿Olvidaste tu contraseña?</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="register">Crear cuenta</string>
+</resources>
